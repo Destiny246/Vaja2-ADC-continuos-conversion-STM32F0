@@ -16,6 +16,6 @@
 <ul>
   <h3>Komentar:</h3>
   <p>
-    Program delje brez problemov.Kr je bila vaja zelo podobna vaji 3 nisma imela z usposabljanjem te vaje nobenih problemov.
+    Program delje brez problemov. Ker je bila vaja zelo podobna vaji 3 nisma imela z usposabljanjem te vaje nobenih problemov.
   </p>
 </ul>
